@@ -1090,13 +1090,13 @@
 		if (plugins.rdMailForm.length) {
 			var i, j, k,
 				msg = {
-					'MF000': 'Successfully sent!',
-					'MF001': 'Recipients are not set!',
-					'MF002': 'Form will not work locally!',
-					'MF003': 'Please, define email field in your form!',
-					'MF004': 'Please, define type of your form!',
-					'MF254': 'Something went wrong with PHPMailer!',
-					'MF255': 'Aw, snap! Something went wrong.'
+					'MF000': 'Sucesso no envio!',
+					'MF001': 'Os destinatários não estão definidos!',
+					'MF002': 'O formulário não funcionará localmente!',
+					'MF003': 'Por favor, defina o campo de email no seu formulário!',
+					'MF004': 'Por favor, defina o tipo do seu formulário!',
+					'MF254': 'Algo deu errado com o PHPMailer!',
+					'MF255': 'Ah! Algo deu errado.'
 				};
 
 			for (i = 0; i < plugins.rdMailForm.length; i++) {
