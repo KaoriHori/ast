@@ -2,7 +2,7 @@
   "useSmtp": false,
   "host": "smtp.gmail.com",
   "port": 465,
-  "username": "ambintsensetecnologies@gmail.com",
+  "username": "astambientsensetecnologies@gmail.com",
   "password": "Ast@2024",
-  "recipientEmail": "ambintsensetecnologies@gmail.com"
+  "recipientEmail": "astambientsensetecnologies@gmail.com"
 }
