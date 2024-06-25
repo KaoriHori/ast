@@ -2,7 +2,7 @@
   "useSmtp": false,
   "host": "stmp.gmail.com",
   "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "username": "kaori.horihr@gmail.com",
+  "password": "senhademo",
+  "recipientEmail": "kaori.horihr@gmail.com"
 }
