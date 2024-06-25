@@ -1,5 +1,5 @@
  {
-  "useSmtp": false,
+  "useSmtp": true,
   "host": "smtp.gmail.com",
   "port": 465,
   "username": "astambientsensetecnologies@gmail.com",
